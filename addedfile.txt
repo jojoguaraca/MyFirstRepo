@@ -1,1 +1,0 @@
-This is a test file for Question 5 on Lab 3.
